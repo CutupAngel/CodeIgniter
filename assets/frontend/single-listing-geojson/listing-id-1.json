@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3.361695",
+                    "6.505967"
+                ]
+            },
+            "properties": {
+                "id": "0839dd60ceb1d52b98f1d824280822d4",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://localhost/Edge-Event/restaurant/dj-vee-entertainment/1",
+                "url": "",
+                "name": "Dj Vee Entertainment",
+                "category": "restaurant",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "FCE",
+                "about": "I will give to \r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
